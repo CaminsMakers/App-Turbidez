@@ -27,7 +27,7 @@ if(turbiedad>100){
   turbiedad=100;
 }
 
-//Serial.println(lectura_luz);
+
 Serial.println(turbiedad);
 delay(1000);
 }
